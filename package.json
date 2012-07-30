@@ -1,15 +1,15 @@
 {
   "author": "Dotan Nahum",
-  "name": "connect-nocache",
-  "description": "Bust through your cache",
+  "name": "connect-cdncache",
+  "description": "Work with your CDN cache",
   "version": "0.0.1",
   "engines": {
     "node": ">=0.6.1"
   },
-  "homepage": "https://github.com/jondot/connect-nocache",
+  "homepage": "https://github.com/jondot/connect-cdncache",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jondot/connect-nocache.git"
+    "url": "git@github.com:jondot/connect-cdncache.git"
   },
   "main": "lib/index.js",
   "dependencies": {
